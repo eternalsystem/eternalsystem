@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a new C2 **Private C2**
 
-- 📝 I regularly write articles on [eternalblue.fr](eternalblue.fr)
+- 📝 I regularly write articles on [eternalblue.fr](https://eternalblue.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
