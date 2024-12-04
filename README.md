@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<h1 align="left">My last project!</h1>
+<h1 align="left">🔗 My last project !</h1>
 
 ![Mon Profil](20241204_165412.png)
 
