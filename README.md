@@ -1,18 +1,7 @@
 # Hello, I'm Eternal Blue 👋
 
 I'm a friendly developer who likes ethical hacking and I specialize in offensive security. 
-```
-func main() {
-    client := Client{
-        Description: "A cool developer who likes hacking",
-        Langs:       []string{"Python", "Csharp", "Rust", "C", "Dart", "VueJS", "NodeJS", "Others..."},
-        Tools:       []string{"nginx", "metalb", "kubernetes", "grafana", "docker"},
-        Servers:     []string{"mariadb", "mongodb", "redis", "apache"},
-    }
-    
-    fmt.Println(client)
-}
-```
+<pre> ```go func main() { client := Client{ Description: "A cool developer who likes hacking", Langs: []string{"Python", "Csharp", "Rust", "C", "Dart", "VueJS", "NodeJS", "Others..."}, Tools: []string{"nginx", "metalb", "kubernetes", "grafana", "docker"}, Servers: []string{"mariadb", "mongodb", "redis", "apache"}, } fmt.Println(client) } ``` </pre>
 ## 🔧 Technologies & Tools
 - Languages: JS, HTML, CSS, Vue.js, Node.js, Rust, Dart, C#, C/C++, Lua, Electron, ASM
 - Databases: MongoDB, Redis
