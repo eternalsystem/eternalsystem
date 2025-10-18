@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on a new C2 **Private C2**
 
-- 📝 I regularly write articles on [eternalblue.fr](https://eternalblue.fr)
 ```go
 func main() {
     client := Client{
