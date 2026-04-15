@@ -28,14 +28,14 @@ func main() {
       <br>
       <br>
       <p>
-          <img width="100" align="left" src="LOGO_SINGULARITY"/>
+          <img width="100" align="left" src="https://raw.githubusercontent.com/eternalsystem/eternalsystem/main/Singularity.png"/>
           <h3 align="left"><a href="https://github.com/eternalsystem/singularity">Singularity</a></h3>                                                                                                                                       
           <h4 align="left">A malware analysis and reverse-engineering tool built in Rust. Supports YARA, disassembly, secret detection and deobfuscation of binaries, Node.js packages and Python payloads.</h4>
       </p>                                                                                                                                                                                                                                   
       <hr>                                                        
       <br>                                                                                                                                                                                                                                   
       <p>                                                         
-          <img width="100" align="right" src="LOGO_SONAR"/>
+          <img width="100" align="right" src="https://raw.githubusercontent.com/eternalsystem/eternalsystem/main/sonar.png"/>
           <h3 align="right"><a href="https://github.com/eternalsystem/sonar">Sonar</a></h3>                                                                                                                                                  
           <h4 align="right">A high-precision network traffic analyzer for PCAP/PCAPng files. Zero data exfiltration — all processing runs in your own infrastructure.</h4>
       </p>                                                                                                                                                                                                                                   
