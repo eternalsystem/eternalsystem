@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/eternalsystem/eternalsystem/main/banner.svg" alt="banner" width="100%"/></p>
+
 <h1 align="center">Welcome to my Profile !</h1>
 <h3 align="center">I'm a cool developer who likes ethical hacking and I specialize in offensive security.</h3>
 
